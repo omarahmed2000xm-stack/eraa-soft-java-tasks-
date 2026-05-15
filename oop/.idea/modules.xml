@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Family/Family.iml" filepath="$PROJECT_DIR$/Family/Family.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SummationLastDigit/SummationLastDigit.iml" filepath="$PROJECT_DIR$/SummationLastDigit/SummationLastDigit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SummationN/SummationN.iml" filepath="$PROJECT_DIR$/SummationN/SummationN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vehicle/Vehicle.iml" filepath="$PROJECT_DIR$/Vehicle/Vehicle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/area/area.iml" filepath="$PROJECT_DIR$/area/area.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calc/calc.iml" filepath="$PROJECT_DIR$/calc/calc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chat/chat.iml" filepath="$PROJECT_DIR$/chat/chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data type/data type.iml" filepath="$PROJECT_DIR$/data type/data type.iml" />
+      <module fileurl="file://$PROJECT_DIR$/difference/difference.iml" filepath="$PROJECT_DIR$/difference/difference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my.java/my.java.iml" filepath="$PROJECT_DIR$/my.java/my.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/oop.iml" filepath="$PROJECT_DIR$/.idea/oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/t/t.iml" filepath="$PROJECT_DIR$/t/t.iml" />
+      <module fileurl="file://$PROJECT_DIR$/train/train.iml" filepath="$PROJECT_DIR$/train/train.iml" />
+    </modules>
+  </component>
+</project>
