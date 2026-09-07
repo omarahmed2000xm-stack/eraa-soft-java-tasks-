@@ -9,7 +9,7 @@ private static final SessionFactory sessionFactory=buildSessionFactory();
 
 private static SessionFactory buildSessionFactory(){
     try {
-        return new Configuration().configure().buildSessionFactory();
+        return new Configuration().configure().addAnnotatedClass(Email.class).buildSessionFactory();
     }catch (Throwable e){
         System.err.println("session factory creation failed  "+e);
         throw  new ExceptionInInitializerError(e);
