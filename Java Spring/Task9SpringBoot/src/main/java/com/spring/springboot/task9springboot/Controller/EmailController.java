@@ -33,7 +33,7 @@ public class EmailController {
 emailService.removeEmail(id);
 return   ResponseEntity.noContent().build();
     }
-    @GetMapping("/by-names")
+    @GetMapping("/by-all-names")
     List<EmailDto> getAllEmails(){
         return emailService.getAllEmails();
     }
